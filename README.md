@@ -10,3 +10,5 @@ make
 
 to run game run:
 ./output 
+
+main instead of master
