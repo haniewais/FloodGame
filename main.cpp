@@ -64,7 +64,7 @@ bool isInFloodArray(Cell *c){
 
 //Return a random char from list
 char getRandChar() {
-    return _charArray[rand() % 4];
+    return _charArray[arc4random()% 4];
 }
 
 //print board
