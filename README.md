@@ -1,14 +1,20 @@
 # FloodGame
-Console Flood Game 
+Console Flood Game in C++
 
-Make file include to compile 
+How to Compile:
+  Notes
+  - the make file is include for easy compiling  
+  - output binary is set to "output"
 
-output binary is set to "output"
+  How to compile
+  - open terminal
+  - run the make command from this directory using: "make"
 
-to compile run:
-make
+to run game, run the binary file from terminal:
+   - ./output 
 
-to run game run:
-./output 
 
-main instead of master
+For Windows
+  - use Developer Commmand Prompt
+  - run command: "cl /EHsc main.cpp"
+  - use main.exe to run game
