@@ -14,7 +14,6 @@ to run game, run the binary file from terminal:
    - ./output 
 
 
-For Windows
-  - use Developer Commmand Prompt
-  - run command: "cl /EHsc main.cpp"
-  - use main.exe to run game
+For Windows - 
+  - in progress - does not look right in windows
+  - arc4rand is mising error
